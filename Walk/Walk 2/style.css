@@ -1,0 +1,22 @@
+.walk {
+  margin-left: 120px;
+  margin-right: 120px;
+  font-size: 20px;
+}
+.walk-title {
+  font-weight: bold;
+}
+.walk-unit {
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+.walk-unit-title {
+  font-weight: bold;
+}
+.walk-problem {
+  display: flex;
+}
+.gray-star {
+  width: 25px;
+  height: 25px;
+}

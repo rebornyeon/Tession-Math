@@ -1,0 +1,50 @@
+.problem-page {
+  margin-right: 120px;
+  margin-left: 120px;
+}
+.back2book {
+  width: 100%;
+  border: none;
+  height: 40px;
+  background-color: rgb(250, 203, 142);
+  font-size: 18px;
+}
+.problem-title {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+.problems-division {
+  border: 2px solid black;
+  padding: 2%;
+  margin-bottom: 2%;
+  border-radius: 10px;
+}
+.problem-text {
+  border-bottom: 2px solid black;
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+.problem-and-answer {
+  margin: 20px;
+  display: flex;
+}
+.problem {
+  font-size: 18px;
+}
+.answer-submit {
+  height: 23px;
+  border: 1px solid black;
+  border-radius: 3px;
+  background-color: rgb(250, 203, 142);
+}
+.answer-input {
+  margin-left: 15px;
+  border: none;
+  border-bottom: 1px solid black;
+}
+.answer-input-wrapper {
+  display: flex;
+}

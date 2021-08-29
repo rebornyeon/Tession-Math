@@ -1,0 +1,40 @@
+.walk {
+  margin-left: 120px;
+  margin-right: 120px;
+  font-size: 20px;
+}
+.walk-title {
+  font-weight: bold;
+  font-size: 60px;
+  margin: 20px;
+}
+.walk-unit {
+  margin-bottom: 50px;
+  margin-top: 50px;
+  border: 2px solid gray;
+  padding: 20px;
+  border-radius: 10px;
+}
+a {
+  text-decoration: none;
+  color: black;
+}
+.walk-unit-title {
+  font-weight: bold;
+  border-bottom: 2px solid gray;
+  padding-bottom: 10px;
+  margin: 10px;
+  margin-top: 0;
+}
+.walk-problem {
+  display: flex;
+  transition: 0.4s font-weight;
+}
+.walk-problem:hover {
+  font-weight: 600;
+}
+.gray-star {
+  width: 25px;
+  height: 25px;
+  margin-right: 5px;
+}

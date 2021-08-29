@@ -1,0 +1,11 @@
+.problem-wrapper {
+  width: 100%;
+  height: 500px;
+  border: 1px solid black;
+}
+.problem-images {
+  display: flex;
+}
+.problem-images > img {
+  width: 100px;
+}

@@ -1,0 +1,54 @@
+.mainpage {
+  margin-left: 120px;
+  margin-right: 120px;
+}
+.mainpage-mainpoint {
+  width: 1200px;
+  height: 208px;
+  margin-bottom: 24px;
+}
+.mainpage-details-detail1 {
+  width: 800px;
+  height: 178px;
+  margin-bottom: 19px;
+}
+.mainpage-details-detail2 {
+  width: 800px;
+  height: 113px;
+}
+.mainpage-detail-and-jpeg {
+  display: flex;
+}
+
+.mainpage-details-jpeg {
+  width: 400px;
+  height: 435px;
+}
+.walk-jpeg {
+  width: 334px;
+  height: 485px;
+}
+.run-jpeg {
+  width: 334px;
+  height: 485px;
+}
+.fly-jpeg {
+  width: 334px;
+  height: 485px;
+}
+.walk {
+  margin-left: 33px;
+  margin-right: 33px;
+}
+.run {
+  margin-left: 33px;
+  margin-right: 33px;
+}
+.fly {
+  margin-left: 33px;
+  margin-right: 33px;
+}
+.mainpage-books {
+  display: flex;
+  margin-top: 119px;
+}
