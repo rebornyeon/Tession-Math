@@ -25,7 +25,8 @@ console.log(walk);
 
 walk.addEventListener("click", function () {
   console.log("walkclick");
-  window.location.href = "/Walk/index.html";
+  window.location.href =
+    "https://rebornyeon.github.io/Tession-Math/Walk/index.html";
 });
 
 const run = document.querySelector("#run");
