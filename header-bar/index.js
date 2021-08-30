@@ -25,15 +25,7 @@ console.log(walk);
 
 walk.addEventListener("click", function () {
   console.log("walkclick");
-  window.location.href = "/Walk/index.html";
-});
-
-const walk1 = document.querySelector("#walk1");
-console.log(walk1);
-
-walk1.addEventListener("click", function () {
-  console.log("walk1click");
-  window.location.href = "../Walk/Walk 1/index.html";
+  window.location.href = "Tession-Math/Walk/index.html";
 });
 
 const run = document.querySelector("#run");
@@ -41,7 +33,7 @@ console.log(run);
 
 run.addEventListener("click", function () {
   console.log("runclick");
-  window.location.href = "/Run/index.html";
+  window.location.href = "Tession-Math/Run/index.html";
 });
 
 const fly = document.querySelector("#fly");
@@ -49,5 +41,5 @@ console.log(fly);
 
 fly.addEventListener("click", function () {
   console.log("runclick");
-  window.location.href = "/Fly/index.html";
+  window.location.href = "Tession-Math/Fly/index.html";
 });
